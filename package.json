@@ -1,0 +1,27 @@
+{
+  "name": "test5_proj",
+  "version": "1.0.0",
+  "description": "test5 our project",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurgenelbakyan/test5.git"
+  },
+  "keywords": [
+    "test5",
+    "min_proj"
+  ],
+  "author": "Gurgen Elbakyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurgenelbakyan/test5/issues"
+  },
+  "homepage": "https://github.com/gurgenelbakyan/test5#readme"
+}
